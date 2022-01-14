@@ -9,7 +9,7 @@ const App = new Vue({
 		audioEnabled: true,
 		videoEnabled: true,
 		screenshareEnabled: false,
-		showIntro: true,
+		showIntro: false,
 		showChat: false,
 		showSettings: false,
 		hideToolbar: false,
